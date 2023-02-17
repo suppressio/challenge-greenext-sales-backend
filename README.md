@@ -1,6 +1,7 @@
-# Api_SalesTaxesTest
+# Challenge GREENEXT - Sales backend test
+## Api_SalesTaxesTest
 
-## How to get the project
+### How to get the project
 
 To setup this project, you need to clone the git repo:
 
@@ -10,7 +11,7 @@ cd challenge-greenext-sales-backend
 dotnet restore
 ```
 
-## How to compile 
+### How to compile 
 
 To compile from powershell:
 
@@ -19,7 +20,7 @@ dotnet restore
 ```
 
 
-## How to run the application
+### How to run the application
 
 To run the web api app in local:
 

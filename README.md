@@ -1,4 +1,7 @@
 # Challenge GREENEXT - Sales backend test
+
+This project is the implementation of the "[SALES](SALES.md)" test.
+
 ## Api_SalesTaxesTest
 
 ### How to get the project

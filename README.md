@@ -3,10 +3,17 @@
 
 ### How to get the project
 
-To setup this project, you need to clone the git repo:
+Clone the git repo:
 
 ```
 git clone https://github.com/suppressio/challenge-greenext-sales-backend.git
+```
+
+### To setup this project on Visual Studio
+
+From powershell:
+
+```
 cd challenge-greenext-sales-backend
 dotnet restore
 ```

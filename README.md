@@ -12,21 +12,18 @@ Clone the git repo:
 git clone https://github.com/suppressio/challenge-greenext-sales-backend.git
 ```
 
-### To setup this project on Visual Studio
-
-From powershell:
+### To restore the dependencies and tools
 
 ```
 cd challenge-greenext-sales-backend
+
 dotnet restore
 ```
 
 ### How to compile 
 
-To compile from powershell:
-
 ```
-dotnet restore
+dotnet build -o Release
 ```
 
 
@@ -36,7 +33,8 @@ To run the web api app in local:
 
 
 ```
-cd bin\Release\net6.0
+cd Release
+
 Api_SalesTaxesTest.exe
 ```
 
